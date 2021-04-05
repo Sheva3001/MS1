@@ -84,4 +84,3 @@ hold on;
 stairs(Z-h,S1);
 hold on;
 plot(y,uni_cdf);
-
